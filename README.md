@@ -1,1 +1,1 @@
-# how-to-test-ai
+# how-to-test
